@@ -69,7 +69,7 @@ function App() {
         ):('')}
 
         
-
+        <div className="author">By- Priyanshu Srivastava</div>
       </main>
     </div>
   );

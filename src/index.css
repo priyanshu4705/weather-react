@@ -109,3 +109,10 @@ main {
   text-shadow: 3px 3px rgba(50, 50, 70, 0.5);
 }
 
+.author {
+  color: #FFF;
+  text-align: left;
+  font-size: 12px;
+  font-weight: 100;
+  text-shadow: 3px 3px rgba(50, 50, 70, 0.5);
+}
