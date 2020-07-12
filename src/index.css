@@ -101,3 +101,11 @@ main {
   font-weight: 700;
   text-shadow: 3px 3px rgba(50, 50, 70, 0.5);
 }
+
+.weather-box .wind {
+  color: #FFF;
+  font-size: 25px;
+  font-weight: 300;
+  text-shadow: 3px 3px rgba(50, 50, 70, 0.5);
+}
+
